@@ -1,6 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+
 const NavBar = () => {
     return (
         <div className='bg-transparent h-16 w-[90%] lg:max-w-5xl xl:max-w-6xl mx-auto flex justify-between items-center'>
