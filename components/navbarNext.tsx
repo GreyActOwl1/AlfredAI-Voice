@@ -26,7 +26,7 @@ import {
   Logo,
 } from "@/components/icons";
 
-export const NavBar = () => {
+const NavbarNext = () => {
   const searchInput = (
     <Input
       aria-label="Search"
@@ -139,3 +139,5 @@ export const NavBar = () => {
     </NextUINavbar>
   );
 };
+
+export default  NavbarNext;

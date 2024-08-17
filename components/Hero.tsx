@@ -11,7 +11,7 @@ const Hero = () => {
            {/*Talk With Toys Text*/}
             <p className='text-xl lg:text-3xl text-black font-bold text-center xl:text-start xl:ml-8 tracking-wide'>Talk with toys</p>
             {/* Click on Bear to interact text*/}
-            <p className="absolute right-12 left-20 sm:text-center xl:left-[380px] xl:right-0 top-6 xl:top-[380px] xl:bottom-20 pt-2 xl:pt-16 text-gray-800 text-xl tracking-wide"> Click on Bear to interact</p>
+            <p className="absolute right-12 left-20 sm:text-center xl:left-[350px] xl:right-0 top-6 xl:top-[380px] xl:bottom-20 pt-2 xl:pt-16 text-gray-800 text-xl tracking-wide"> Click on the Bear to interact</p>
 
             </div>
             {/* Bear Image */}
